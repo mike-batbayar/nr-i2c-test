@@ -1,1 +1,1 @@
-[]
+[{"id":"f642110b.6c6b5","type":"tab","label":"Flow 2","disabled":false,"info":""},{"id":"9eedd07b.c3ccc","type":"inject","z":"f642110b.6c6b5","name":"","topic":"","payload":"Hi Mike! Test successful","payloadType":"str","repeat":"","crontab":"","once":false,"onceDelay":0.1,"x":250,"y":160,"wires":[["1a1244e6.61517b"]]},{"id":"1a1244e6.61517b","type":"debug","z":"f642110b.6c6b5","name":"","active":true,"tosidebar":true,"console":true,"tostatus":false,"complete":"payload","targetType":"msg","x":550,"y":160,"wires":[]}]
