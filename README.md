@@ -1,8 +1,7 @@
 miketest
 ========
 
-prints msg to console
-
+htu21 i2c test 
 ### About
 
 This is your project's README.md file. It helps users understand what your

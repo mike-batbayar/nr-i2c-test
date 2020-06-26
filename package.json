@@ -1,6 +1,6 @@
 {
     "name": "miketest",
-    "description": "prints msg to console",
+    "description": "temp and humidity data",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
